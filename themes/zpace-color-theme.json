@@ -26,13 +26,16 @@
                 "punctuation.definition.string.begin.markdown"
             ],
             "settings": {
-                "foreground": "#5c0091"
+                "foreground": "#f8cf5d"
             }
         },
         {
-            "name": "Cyan",
+            "name": "Variables",
             "scope": [
                 "variable",
+                "support.class",
+                "keyword.operator",
+                "support.constant",
                 "support.variable",
                 "entity.name.tag.yaml",
                 "constant.character.entity.html",
@@ -42,7 +45,7 @@
                 "meta.structure.dictionary.json support.type.property-name"
             ],
             "settings": {
-                "foreground": "#87D3F8"
+                "foreground": "#5FA5DB"
             }
         },
         {
@@ -66,7 +69,7 @@
             }
         },
         {
-            "name": "Yellow",
+            "name": "Methods",
             "scope": [
                 "markup.list",
                 "text.xml string",
@@ -85,18 +88,18 @@
                 "text.xml punctuation.definition.string"
             ],
             "settings": {
-                "foreground": "#F2F27A"
+                "foreground": "#f8cf5d"
             }
         },
         {
-            "name": "Pink",
+            "name": "Markup",
             "scope": [
                 "markup.heading",
                 "variable.language.this.js",
                 "variable.language.special.self.python"
             ],
             "settings": {
-                "foreground": "#ff00aa"
+                "foreground": "#00fff2"
             }
         },
         {
@@ -115,7 +118,7 @@
             }
         },
         {
-            "name": "Purple",
+            "name": "Keyword",
             "scope": [
                 "storage",
                 "keyword",
@@ -125,7 +128,7 @@
                 "source.js support.type"
             ],
             "settings": {
-                "foreground": "#c74ded"
+                "foreground": "#f85353"
             }
         },
         {
@@ -142,10 +145,6 @@
             "name": "Red",
             "scope": [
                 "constant",
-                "support.class",
-                "keyword.operator",
-                "support.constant",
-                "text.html.markdown string",
                 "source.css support.function",
                 "source.php support.function",
                 "support.function.magic.python",
@@ -153,16 +152,17 @@
                 "markup.deleted"
             ],
             "settings": {
-                "foreground": "#E25822"
+                "foreground": "#f85353"
             }
         },
         {
-            "name": "Green",
+            "name": "String",
             "scope": [
                 "string",
                 "text.html.php string",
                 "markup.inline.raw",
                 "markup.inserted",
+                "text.html.markdown string",
                 "punctuation.definition.string",
                 "punctuation.definition.markdown",
                 "text.html meta.embedded source.js string",
@@ -172,17 +172,8 @@
                 "text.html string"
             ],
             "settings": {
-                "foreground": "#14B37D"
+                "foreground": "#53DB7A"
             }
         },
-        {
-            "name": "Font Underline",
-            "scope": [
-                "entity.other.inherited-class"
-            ],
-            "settings": {
-                "fontStyle": "underline"
-            }
-        }
-    ]
+    ],
 }
