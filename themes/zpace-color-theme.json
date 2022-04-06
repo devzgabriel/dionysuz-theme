@@ -130,7 +130,10 @@
         },
         {
             "name": "Blue",
-            "scope": ["string.regexp", "markup.changed"],
+            "scope": [
+                "string.regexp",
+                "markup.changed"
+            ],
             "settings": {
                 "foreground": "#3A75C4"
             }
@@ -174,7 +177,9 @@
         },
         {
             "name": "Font Underline",
-            "scope": ["entity.other.inherited-class"],
+            "scope": [
+                "entity.other.inherited-class"
+            ],
             "settings": {
                 "fontStyle": "underline"
             }
