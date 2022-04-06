@@ -33,6 +33,7 @@
             "name": "Variables",
             "scope": [
                 "variable",
+                "property",
                 "support.class",
                 "keyword.operator",
                 "support.constant",
@@ -121,6 +122,9 @@
             "name": "Keyword",
             "scope": [
                 "storage",
+                "storage.type",
+                "support.type",
+                "support.class",
                 "keyword",
                 "meta.link",
                 "meta.image",
@@ -128,7 +132,7 @@
                 "source.js support.type"
             ],
             "settings": {
-                "foreground": "#f85353"
+                "foreground": "#AB68DB"
             }
         },
         {
