@@ -1,8 +1,8 @@
 {
-    "name": "zpace-vscode",
-    "displayName": "Zpace VSCode Theme",
-    "description": "A VSCode theme with a clear and background",
-    "version": "0.0.1",
+    "name": "dionysuz-theme",
+    "displayName": "Dionysuz Theme",
+    "description": "A VSCode theme with a clear and dark background",
+    "version": "0.0.2",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#23262E",
@@ -12,10 +12,10 @@
     "author": {
         "name": "Gabriel Silva",
         "url": "https://github.com/devzgabriel",
-        "email": "om.cortez.2010@gmail.com"
+        "email": "devzgabriel@gmail.com"
     },
     "repository": {
-        "url": "https://github.com/devzgabriel/zpace-vscode"
+        "url": "https://github.com/devzgabriel/dionysuz-vscode"
     },
     "engines": {
         "vscode": "^1.14.0"
@@ -26,9 +26,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Zpace Dark",
+                "label": "Dionysuz Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/zpace-color-theme.json"
+                "path": "./themes/dionysuz-color-theme.json"
             }
         ]
     }

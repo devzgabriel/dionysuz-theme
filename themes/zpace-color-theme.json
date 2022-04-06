@@ -1,8 +1,8 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Zpace",
+    "name": "Dionysuz",
     "type": "dark",
-    "include": "zpace-colors.json",
+    "include": "dionysuz-colors.json",
     "tokenColors": [
         {
             "name": "Comment color",
@@ -47,7 +47,7 @@
                 "meta.structure.dictionary.json support.type.property-name"
             ],
             "settings": {
-                "foreground": "#AB68DB"
+                "foreground": "#5FA5DB"
             }
         },
         {
@@ -91,7 +91,7 @@
                 "text.xml punctuation.definition.string"
             ],
             "settings": {
-                "foreground": "#f8625d"
+                "foreground": "#f8b55d"
             }
         },
         {
@@ -134,7 +134,7 @@
                 "source.js support.type"
             ],
             "settings": {
-                "foreground": "#5FA5DB"
+                "foreground": "#bd6bf8"
             }
         },
         {
@@ -178,7 +178,7 @@
                 "text.html string"
             ],
             "settings": {
-                "foreground": "#ab875a"
+                "foreground": "#8cab5a"
             }
         },
     ],

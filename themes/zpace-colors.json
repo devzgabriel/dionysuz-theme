@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Zpace Colors",
+    "name": "Dionysuz Colors",
     "type": "dark",
     "colors": {
         // Contrast Colors
@@ -10,7 +10,7 @@
         "foreground": "#D5CED9",
         "widget.shadow": "#0B0D14",
         "selection.background": "#746F77",
-        "errorForeground": "#9e0000",
+        "errorForeground": "#ff5757",
         // Button Control
         "button.background": "#3B4366B0",
         "button.hoverBackground": "#6875B3A0",
@@ -21,8 +21,8 @@
         "input.background": "#2B303B",
         "input.placeholderForeground": "#746F77",
         "inputOption.activeBorder": "#C668BA",
-        "inputValidation.errorBackground": "#9e0000",
-        "inputValidation.errorBorder": "#9e0000",
+        "inputValidation.errorBackground": "#ff5757",
+        "inputValidation.errorBorder": "#ff5757",
         "inputValidation.infoBackground": "#3A6395",
         "inputValidation.infoBorder": "#3A6395",
         "inputValidation.warningBackground": "#a36200",
@@ -44,7 +44,7 @@
         "list.focusForeground": "#ffffff",
         "list.hoverBackground": "#3a404e",
         "list.hoverForeground": "#eeeeee",
-        "list.errorForeground": "#9e0000",
+        "list.errorForeground": "#ff5757",
         "list.warningForeground": "#a36200",
         // Activity Bar
         "activityBar.background": "#0F111A",
@@ -89,7 +89,7 @@
         "editorBracketMatch.background": "#746F77",
         "editorBracketMatch.border": "#746F77",
         "editorOverviewRuler.border": "#0F111A",
-        "editorError.foreground": "#9e0000",
+        "editorError.foreground": "#ff5757",
         "editorWarning.foreground": "#a36200",
         "editorGutter.modifiedBackground": "#3B79C7BB",
         "editorGutter.addedBackground": "#45C758BB",
@@ -144,12 +144,12 @@
         "terminal.ansiCyan": "#108cac",
         "terminal.ansiGreen": "#53DB7A",
         "terminal.ansiMagenta": "#AB68DB",
-        "terminal.ansiRed": "#cd3131",
+        "terminal.ansiRed": "#ff5757",
         "terminal.ansiWhite": "#e5e5e5",
         "terminal.ansiYellow": "#f8cf5d",
         // Status Bar Colors
         "statusBar.background": "#0F111A",
-        "statusBar.debuggingBackground": "#9e0000",
+        "statusBar.debuggingBackground": "#ff5757",
         "statusBar.noFolderBackground": "#0F111A",
         "statusBarItem.activeBackground": "#3B4366",
         "statusBarItem.hoverBackground": "#6875B3B0",
@@ -160,7 +160,7 @@
         "titleBar.inactiveBackground": "#0F111A",
         // Notification Colors
         "notifications.background": "#131622",
-        "notificationsErrorIcon.foreground": "#9e0000",
+        "notificationsErrorIcon.foreground": "#ff5757",
         "notificationsWarningIcon.foreground": "#a36200",
         "notificationsInfoIcon.foreground": "#5766b1",
         // Extensions
