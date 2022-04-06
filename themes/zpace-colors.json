@@ -12,8 +12,8 @@
         "selection.background": "#746F77",
         "errorForeground": "#FC644D",
         // Button Control
-        "button.background": "#00e8c5B0",
-        "button.hoverBackground": "#07d4b6A0",
+        "button.background": "#3B4366B0",
+        "button.hoverBackground": "#6875B3A0",
         // Dropdown Control
         "dropdown.background": "#2B303B",
         "dropdown.border": "#363C49",
@@ -29,15 +29,15 @@
         "inputValidation.warningBorder": "#DE9237",
         // Scrollbar Control
         "scrollbar.shadow": "#0B0D14",
-        "scrollbarSlider.background": "#746F77",
-        "scrollbarSlider.activeBackground": "#00e8c5B0",
-        "scrollbarSlider.hoverBackground": "#07d4b6A0",
+        "scrollbarSlider.background": "#2D2E33e0",
+        "scrollbarSlider.activeBackground": "#5A5C66B0",
+        "scrollbarSlider.hoverBackground": "#3B4366A0",
         // Badge
-        "badge.background": "#00B0FF",
+        "badge.background": "#5766b1",
         // Progress Bar
         "progressBar.background": "#C668BA",
         // Lists and Trees
-        "list.activeSelectionBackground": "#117e6da0",
+        "list.activeSelectionBackground": "#6875B3A0",
         "list.activeSelectionForeground": "#F3EFE0",
         "list.dropBackground": "#3a404e",
         "list.focusBackground": "#282b35",
@@ -50,7 +50,7 @@
         "activityBar.background": "#0F111A",
         "activityBar.foreground": "#BAAFC0",
         "activityBar.border": "#0F111A",
-        "activityBarBadge.background": "#00B0FF",
+        "activityBarBadge.background": "#5766b1",
         // Side Bar
         "sideBar.background": "#0F111A",
         "sideBar.foreground": "#F3EFE0",
@@ -71,12 +71,12 @@
         "editorLineNumber.activeForeground": "#FFFFFF",
         "editorLineNumber.foreground": "#746F77",
         "editorCursor.foreground": "#FFFFFF",
-        "editor.selectionBackground": "#303541",
-        "editor.selectionHighlightBackground": "#4F435580",
+        "editor.selectionBackground": "#212736",
+        "editor.selectionHighlightBackground": "#42394780",
         "editor.wordHighlightBackground": "#4F4355",
         "editor.wordHighlightStrongBackground": "#DB45A280",
-        "editor.findMatchBackground": "#F39D1299",
-        "editor.findMatchHighlightBackground": "#59B8B399",
+        "editor.findMatchBackground": "#ffb411a4",
+        "editor.findMatchHighlightBackground": "#ac7c24d0",
         "editor.hoverHighlightBackground": "#373941",
         "editor.lineHighlightBackground": "#1D2133",
         "editor.lineHighlightBorder": "#1D2133",
@@ -95,8 +95,8 @@
         "editorGutter.addedBackground": "#45C758BB",
         "editorGutter.deletedBackground": "#FC644DBB",
         // Diff Editor Colors
-        "diffEditor.insertedTextBackground": "#A5F69C20",
-        "diffEditor.removedTextBackground": "#FC644D20",
+        "diffEditor.insertedTextBackground": "#67d35b3d",
+        "diffEditor.removedTextBackground": "#fc4d4d6b",
         // Editor Widget Colors
         "editorWidget.background": "#131622",
         "editorWidget.border": "#131622",
@@ -124,16 +124,16 @@
         // Panel Colors
         "panel.background": "#0F111A",
         "panel.border": "#014b40f1",
-        "panelTitle.activeBorder": "#00e8c5B0",
+        "panelTitle.activeBorder": "#3B4366B0",
         "panelTitle.inactiveForeground": "#746F77",
         // Status Bar Colors
         "statusBar.background": "#0F111A",
         "statusBar.debuggingBackground": "#FC644D",
         "statusBar.noFolderBackground": "#0F111A",
-        "statusBarItem.activeBackground": "#00E8C5",
-        "statusBarItem.hoverBackground": "#07D4B5B0",
-        "statusBarItem.prominentBackground": "#00e8c5B0",
-        "statusBarItem.prominentHoverBackground": "#07d4b6A0",
+        "statusBarItem.activeBackground": "#3B4366",
+        "statusBarItem.hoverBackground": "#6875B3B0",
+        "statusBarItem.prominentBackground": "#3B4366B0",
+        "statusBarItem.prominentHoverBackground": "#6875B3A0",
         // Title Bar Colors (macOS)
         "titleBar.activeBackground": "#0F111A",
         "titleBar.inactiveBackground": "#0F111A",
@@ -141,10 +141,10 @@
         "notifications.background": "#131622",
         "notificationsErrorIcon.foreground": "#FC644D",
         "notificationsWarningIcon.foreground": "#FF9F2E",
-        "notificationsInfoIcon.foreground": "#00b0ff",
+        "notificationsInfoIcon.foreground": "#5766b1",
         // Extensions
-        "extensionButton.prominentBackground": "#00e8c5B0",
-        "extensionButton.prominentHoverBackground": "#07d4b6A0",
+        "extensionButton.prominentBackground": "#3B4366B0",
+        "extensionButton.prominentHoverBackground": "#6875B3A0",
         // Quick Picker
         "pickerGroup.border": "#4F4355",
         "pickerGroup.foreground": "#746F77",
