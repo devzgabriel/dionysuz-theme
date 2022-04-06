@@ -1,0 +1,35 @@
+{
+    "name": "zpace-vscode",
+    "displayName": "Zpace VSCode Theme",
+    "description": "A VSCode theme with a clear and background",
+    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "devzgabriel",
+    "author": {
+        "name": "Gabriel Silva",
+        "url": "https://github.com/devzgabriel",
+        "email": "om.cortez.2010@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/devzgabriel/zpace-vscode"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zpace Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zpace-color-theme.json"
+            }
+        ]
+    }
+}
