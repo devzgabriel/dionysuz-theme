@@ -1,13 +1,19 @@
 <h1 align="center">
 Dionysuz Theme
 </h1>
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/devzgabriel/dionysuz-theme/main/images/icon.png" style="border-radius:50%" width="300" height="300">
-</h1>
 
+## Nature Theme
 ![dionysuz-screenshot](images/example.png)
-
 <hr>
+
+## Pastel Theme
+![dionysuz-pastel](images/example-pastel.png)
+<hr>
+
+## Space Theme
+![dionysuz-space](images/example-space.png)
+<hr>
+
 
 ## Special thanks
 
