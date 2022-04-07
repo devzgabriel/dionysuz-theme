@@ -2,10 +2,10 @@
 Dionysuz Theme
 </h1>
 <h1 align="center">
-<img src="./images/icon.png" style="border-radius:50%" width="300" height="300">
+<img src="https://raw.githubusercontent.com/devzgabriel/dionysuz-theme/main/images/icon.png" style="border-radius:50%" width="300" height="300">
 </h1>
 
-<img src="./images/example.png">
+![dionysuz-screenshot](images/example.png)
 
 <hr>
 
