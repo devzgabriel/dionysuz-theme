@@ -54,6 +54,8 @@
           "name": "Orange",
           "scope": [
               "markup.bold",
+              // "variable.other.readwrite.ts",
+              // "variable.other.constant.ts",
               "constant",
               "constant.numeric",
               "meta.group.regexp",
@@ -117,7 +119,7 @@
               "entity.name.tag"
           ],
           "settings": {
-              "foreground": "#f92672"
+              "foreground": "#f8518e"
           }
       },
       {
