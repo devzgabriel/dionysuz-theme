@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Zpace",
+  "name": "Space",
   "type": "dark",
   "include": "zpace-colors.json",
   "tokenColors": [

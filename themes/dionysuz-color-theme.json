@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Dionysuz",
+    "name": "Dionysuz Nature",
     "type": "dark",
     "include": "dionysuz-colors.json",
     "tokenColors": [
