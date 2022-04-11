@@ -2,7 +2,7 @@
   "name": "dionysuz-theme",
   "displayName": "Dionysuz Theme",
   "description": "A VSCode theme with a clear and dark background",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#23262E",
@@ -29,6 +29,11 @@
         "label": "Dionysuz Nature",
         "uiTheme": "vs-dark",
         "path": "./themes/dionysuz-color-theme.json"
+      },
+      {
+        "label": "Dionysuz Grape",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grape-theme.json"
       },
       {
         "label": "Dionysuz Pastel",
