@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dionysuz Pastel",
+  "name": "Dionysuz Nature",
   "type": "dark",
   "include": "dionysuz-colors.json",
   "tokenColors": [
@@ -39,10 +39,7 @@
         "source.css entity.name.tag.reference",
         "beginning.punctuation.definition.list.markdown",
         "source.css entity.other.attribute-name.parent-selector",
-        "meta.structure.dictionary.json support.type.property-name",
-        "keyword.other.special-method.dockerfile",
-        "markup.italic",
-        "markup.underline.link.markdown"
+        "meta.structure.dictionary.json support.type.property-name"
       ],
       "settings": {
         "foreground": "#5FA5DB"
@@ -52,8 +49,6 @@
       "name": "Orange",
       "scope": [
         "markup.bold",
-        // "variable.other.readwrite.ts",
-        // "variable.other.constant.ts",
         "constant",
         "constant.numeric",
         "meta.group.regexp",
@@ -74,6 +69,7 @@
     {
       "name": "Methods",
       "scope": [
+        "markup.list",
         "text.xml string",
         "entity.name.type",
         "support.function",
@@ -90,7 +86,7 @@
         "text.xml punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#bd6bf8"
+        "foreground": "#f8b55d"
       }
     },
     {
@@ -101,7 +97,7 @@
         "variable.language.special.self.python"
       ],
       "settings": {
-        "foreground": "#46e6de"
+        "foreground": "#00fff2"
       }
     },
     {
@@ -116,7 +112,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#f8518e"
+        "foreground": "#f92672"
       }
     },
     {
@@ -129,10 +125,11 @@
         "keyword",
         "meta.link",
         "meta.image",
+        "markup.italic",
         "source.js support.type"
       ],
       "settings": {
-        "foreground": "#9073a5"
+        "foreground": "#bd6bf8"
       }
     },
     {
@@ -159,7 +156,6 @@
       "name": "String",
       "scope": [
         "string",
-        "markup.list",
         "text.html.php string",
         "markup.inline.raw",
         "markup.inserted",
@@ -174,7 +170,7 @@
         "text.html string"
       ],
       "settings": {
-        "foreground": "#e0af6f"
+        "foreground": "#8cab5a"
       }
     },
     {
