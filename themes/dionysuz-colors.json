@@ -94,8 +94,8 @@
     "editorError.foreground": "#ff5757",
     "editorWarning.foreground": "#f39c12",
     "editorGutter.modifiedBackground": "#3B79C7BB",
-    "editorGutter.addedBackground": "#315f2c27",
-    "editorGutter.deletedBackground": "#5e1f1f46",
+    "editorGutter.addedBackground": "#315f2c",
+    "editorGutter.deletedBackground": "#831313",
     // Diff Editor Colors
     "diffEditor.insertedTextBackground": "#315f2c27",
     "diffEditor.removedTextBackground": "#5e1f1f46",

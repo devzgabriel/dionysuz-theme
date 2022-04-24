@@ -175,7 +175,7 @@
     },
     {
       "name": "Params",
-      "scope": ["variable.parameter.ts", "variable.parameter.function.ts", "meta.parameters.ts"],
+      "scope": ["variable.parameter.ts", "entity.name.type.ts"],
       "settings": {
         "fontStyle": "italic"
       }
