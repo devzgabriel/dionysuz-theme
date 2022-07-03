@@ -2,10 +2,10 @@
   "name": "dionysuz-theme",
   "displayName": "Dionysuz Theme",
   "description": "A VSCode theme with a clear and dark background",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#23262E",
+    "color": "#0F111A",
     "theme": "dark"
   },
   "publisher": "devzgabriel",
