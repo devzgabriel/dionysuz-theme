@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Dionysuz Dark Halloween",
+  "name": "Dionysuz Halloween",
   "type": "dark",
   "include": "dionysuz-v2-token-colors.json",
   "colors": {

@@ -46,9 +46,9 @@
         "path": "./themes/dark-v2.json"
       },
       {
-        "label": "Dionysuz Dark Halloween",
+        "label": "Dionysuz Halloween",
         "uiTheme": "vs-dark",
-        "path": "./themes/black-halloween.json"
+        "path": "./themes/halloween.json"
       }
     ]
   }
